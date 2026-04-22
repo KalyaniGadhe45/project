@@ -16,8 +16,9 @@ It contains basic we pages like Home, About and Contact
 
 ## Output Screenshort
 
-![Home page](Home page.png)
-
+![alt text](<Home page.png>)
+![alt text](<About page.png>)
+![alt text](<Contact page.png>)
 ## How to contribute
 
 We Welcome contribution from the community to help us expand and  improve this project.
