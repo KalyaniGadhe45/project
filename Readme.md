@@ -1,11 +1,19 @@
-# This is heading1
+# My First Project
 
-## This is a normal text
+Welcome to my website !!
+This  is a open source project serves for a various technology and used for a HTML Programming language
+It contains basic we pages like Home, About and Contact
 
-### Good morning
+## Features
+- Simple and Clean design
+- Begginer-friendly project
+- Fully responsive basic layout
 
-This is **bold** tag
+## Project Structure
+- index.html -> Home page
+- about.html -> About page
+- contact.html -> Contact page
 
-This is *italic* tet
+## How to contribute
 
-This is <u>underlined</u> text
+We Welcome contribution from the community to help us expand and  improve this project.
