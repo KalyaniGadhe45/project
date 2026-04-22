@@ -14,6 +14,12 @@ It contains basic we pages like Home, About and Contact
 - about.html -> About page
 - contact.html -> Contact page
 
+## Output Screenshort
+
+![alt text](<Home Page - Google Chrome 22-04-2026 05_08_19 PM (2).png>)
+![alt text](<Home Page - Google Chrome 22-04-2026 05_12_57 PM (2)-1.png>)
+![alt text](<Contact page - Google Chrome 22-04-2026 05_13_16 PM (2).png>)
+
 ## How to contribute
 
 We Welcome contribution from the community to help us expand and  improve this project.
